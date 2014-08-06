@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Blackhole>
+		<Protocol>bgp</Protocol>
+		<Label>Blackhole</Label> 
+	</Blackhole>
+	<Remove>
+		<Network>192.168.1.1/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.1.2/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.1.3/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.1.4/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.1.5/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.1.6/32</Network>
+		<Age>86400</Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.2.1/32</Network>
+		<Age></Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.2.2/32</Network>
+		<Age></Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.2.3/32</Network>
+		<Age></Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.2.4/32</Network>
+		<Age></Age>
+	</Remove>
+	<Remove>
+		<Network>192.168.2.5/32</Network>
+		<Age></Age>
+	</Remove>
+</Data>
+
+

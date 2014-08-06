@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+	<Configuration>
+
+	</Configuration>
+	<BGP>
+		<Server>
+			<Host>localhost</Host>
+			<Password></Password>
+			<EnablePassword></EnablePassword>
+			<ConfigDir>/etc/quagga</ConfigDir>
+			<Router>router bgp 20093 view Blackhole</Router>
+		</Server>
+	</BGP>
+
+</Data>
